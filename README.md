@@ -39,13 +39,13 @@ This project is a machine learning-based web application that detects plant leaf
 ## 🖼️ Screenshots
 
 ### Healthy Leaf Prediction
-![Healthy](images/healthy.png)
+![Healthy]([images/healthy.png](https://drive.google.com/file/d/1P6S7gyI_77kiKh2ai9T9SqL_Dlgcr3HR/view?usp=sharing))
 
 ### Diseased Leaf Prediction
-![Diseased](images/diseased.png)
+![Diseased]([images/diseased.png](https://drive.google.com/file/d/136Gc5yHaSQEgZWUHnqxa_loWbluoMklb/view?usp=sharing))
 
 ### Application Interface
-![UI](images/ui.png)
+![UI]([images/ui.png](https://drive.google.com/file/d/1ibqf3sG6bv4lKHeHuTYwqx7w3uHaRGU4/view?usp=sharing))
 
 ---
 
