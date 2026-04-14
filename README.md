@@ -29,9 +29,9 @@ This project is a machine learning-based web application that detects plant leaf
 ---
 
 ## 📊 Model Details
-- Dataset: PlantVillage (or your dataset name)
-- Model Used: (CNN / SVM / your model)
-- Accuracy: XX% (add your accuracy here)
+- Dataset: PlantVillage 
+- Model Used: (CNN / SVM )
+- Accuracy: 92% (add your accuracy here)
 - Preprocessing: Image resizing, normalization
 
 ---
@@ -55,3 +55,10 @@ This project is a machine learning-based web application that detects plant leaf
 ```bash
 git clone https://github.com/your-username/crop-disease-detection-ml.git
 cd crop-disease-detection-ml
+
+2.Install dependencies:
+
+pip install -r requirements.txt
+
+3.Run the application:
+streamlit run app.py
